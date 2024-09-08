@@ -1,6 +1,6 @@
-public class Unary{
+public class Unarypre{
     public static void main(String[] args){
-        increment operator ++
+        //increment operator ++
         int a = 10;
         int b = ++a; // pre-increment operator
         System.out.println(a);
