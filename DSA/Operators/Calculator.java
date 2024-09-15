@@ -22,7 +22,7 @@ public class Calculator{
             case '/': System.out.println(a / b);
             break;
             case '%': System.out.println(a % b);
-            default : System.out.println("Wrong operator");
+            default : System.out.println("Wrong Operator");
         }
     }
 }
