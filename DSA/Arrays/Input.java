@@ -40,5 +40,9 @@
            str[i] = in.next();
         }
         System.out.println(Arrays.toString(str));
+
+        //modify
+        str[1] = "Ramesh";
+         System.out.println(Arrays.toString(str));
     }
 }
